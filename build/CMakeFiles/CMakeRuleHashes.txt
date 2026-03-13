@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+d1fc59cce3c202133f512242610c5570 /wv/mohfou9z/Embedded_Linux/assignment-1-mafouadm/assignment-autotest/test/assignment1/Test_hello_Runner.c
